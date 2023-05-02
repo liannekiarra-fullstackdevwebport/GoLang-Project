@@ -1,4 +1,4 @@
-// for the speech to specch to occur the speech needs to be converted into a text.
+// for the speech to speech to occur the speech needs to be converted into a text.
 // the text is used to query the wolfram alpha api.
 //the the answer is a text/string and is written to an xml file
 //the xml file is read to produce a wav file for the user
