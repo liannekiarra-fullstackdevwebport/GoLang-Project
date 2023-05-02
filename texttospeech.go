@@ -1,3 +1,6 @@
+//this file contains functionalities that are able to turn text to speech. 
+//string type to xml 
+
 package main
 import (
   "bytes"
